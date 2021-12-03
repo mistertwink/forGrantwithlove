@@ -1,5 +1,5 @@
 {
-"secret_code": "iLu667GrA",
+"secret_code": "секретный код",
 "ru_captcha_key": "",
 "repeater_word": "..",
 "dd_prefix": "дд",
@@ -11,9 +11,9 @@
 "auto_exit_from_chat_add_to_black_list": false,
 "disable_notifications": false,
 "tokens": [
-"a9b0b36c6eb42a6d79d51481c1965d2d51634b175ca0e12027ef034255a46b62ddf805a9cb55da3eae67b",
-"f71d381a7517dc1a1025ac4a137985182d6a25b4e571925bf8588e3a0d1577fc35a98d3e0c7566956f7a2",
-"1365ca546be5ddbb40906267df2f48faec9e123fbc0880c423877946a4ec812500cf31b3a7e19e26caaa4"
+"токен1",
+"токен2",
+"токен3"
 ],
 "service_prefixes": [
 "ь",
