@@ -39,7 +39,7 @@ parser.add_argument(
     '--base_domain',
     type=str,
     dest="base_domain",
-    default="https://irisduty.ru",
+    default="https://risingduty.ru",
     help='Базовый домен'
 )
 
