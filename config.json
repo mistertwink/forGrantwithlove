@@ -1,0 +1,43 @@
+{
+"secret_code": "iLu667GrA",
+"ru_captcha_key": "",
+"repeater_word": "..",
+"dd_prefix": "дд",
+"bio_reply": true,
+"repeater_active": true,
+"delete_all_notify": false,
+"auto_exit_from_chat": false,
+"auto_exit_from_chat_delete_chat": false,
+"auto_exit_from_chat_add_to_black_list": false,
+"disable_notifications": false,
+"tokens": [
+"a9b0b36c6eb42a6d79d51481c1965d2d51634b175ca0e12027ef034255a46b62ddf805a9cb55da3eae67b",
+"f71d381a7517dc1a1025ac4a137985182d6a25b4e571925bf8588e3a0d1577fc35a98d3e0c7566956f7a2",
+"1365ca546be5ddbb40906267df2f48faec9e123fbc0880c423877946a4ec812500cf31b3a7e19e26caaa4"
+],
+"service_prefixes": [
+"ь",
+".ь",
+"лофт",
+"л"
+],
+"self_prefixes": [
+"лофт",
+"л"
+],
+"duty_prefixes": [
+"юю",
+".юю",
+"лофт",
+"л"
+],
+"ignored_members": [],
+"ignored_global_members": [],
+"muted_members": [],
+"aliases": [],
+"role_play_commands": [],
+"trusted": [],
+"add_to_friends_on_chat_enter": [],
+"sloumo": [],
+"regex_deleter": []
+}
